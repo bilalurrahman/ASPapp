@@ -52,7 +52,7 @@ namespace SpiceProj.Areas.Admin.Controllers
                 if (doesSubCategoryExists.Count() > 0)
                 {
                     //Error
-                    StatusMessage = "Error: Sub Category exists under " + doesSubCategoryExists.First().Category.Name + " category. Please use another name"
+                    StatusMessage = "Error: Sub Category exists under " + doesSubCategoryExists.First().Category.Name + " category. Please use another name";
                 }
                 else
                 {

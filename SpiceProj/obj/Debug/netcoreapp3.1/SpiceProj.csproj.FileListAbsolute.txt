@@ -435,3 +435,5 @@ D:\Users\b.mirza\source\repos\SpiceProj\SpiceProj\obj\Debug\netcoreapp3.1\SpiceP
 D:\Users\b.mirza\source\repos\SpiceProj\SpiceProj\obj\Debug\netcoreapp3.1\SpiceProj.csprojAssemblyReference.cache
 D:\Users\b.mirza\source\repos\SpiceProj\SpiceProj\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SubCategory\Create.cshtml.g.cs
 D:\Users\b.mirza\source\repos\SpiceProj\SpiceProj\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SubCategory\Index.cshtml.g.cs
+D:\Users\b.mirza\source\repos\SpiceProj\SpiceProj\obj\Debug\netcoreapp3.1\Razor\Views\Shared\View.cshtml.g.cs
+D:\Users\b.mirza\source\repos\SpiceProj\SpiceProj\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_StatusMessage.cshtml.g.cs
